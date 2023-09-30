@@ -1,1 +1,2 @@
 # Space Batter
+A game about two astronauts passing the time while trapped aboard a space station, made in the Bevy game engine for Ludum Dare 54. I only had 6 hours to work on this, but wanted to submit something since I always seem to be busy during the jam period, so I just made something quick and simple. Spacebar to swing your bat, P to change the color palette, and Esc to quit. Every hit is a home run in space, but three strikes and you're out!
